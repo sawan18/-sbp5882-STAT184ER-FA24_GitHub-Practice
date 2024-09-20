@@ -1,0 +1,36 @@
+---
+title: "Markdown Schedule"
+subtitle: "Week 3 Activity"
+author: "Sawan Pandita"
+date: "9/19/2024"
+output: html_notebook
+---
+
+# Schedule
+
+### MATH 230:Calculus and Vector Analysis
+
+MATH 230: Calculus and Vector Analysis (3 credits) is the third in a sequence of calculus courses for engineering, science, and related fields. It covers vectors in space, vector-valued functions, functions of several variables, and various integrals and theorems. This version is more theoretical, with sophisticated problems and in-depth discussions. The course includes four 50-minute lectures per week, assessed through exams, quizzes, homework, and writing assignments. Classes are held Monday, Wednesday, Thursday, and Friday at 8:00 AM. You can learn more about the topics and the decription of this course through this website (https://sites.psu.edu/altoonamath/mathematics-courses-offered-at-penn-state-altoona/math-230-calculus-and-vector-analysis/#:~:text=Blue%20Book%20Description%3A%20Three%2Ddimensional,schedule%20MATH%20230%20for%20credit.). 
+
+![Book Used MATH 230: Calculus and Vector Analysis or for Calculas 3 ](https://www.calcchat.com/images/book_covers/Calc-ETF-7e.png)
+
+
+### Professional Development: Financial API Research
+
+I am working on a **API Financial Integration** with **Professor Kaamran Raahemifar**, where we are developing financial APIs. An API (application programming interface) is a tool used to share content and data between software applications. APIs are used in a variety of contexts, such as embedding content from one website into another, dynamically posting content from one application to display in another, or extracting data from a database in a more programmatic way than a regular user interface might allow.
+
+In our project, we aim to design a secure, scalable API that will allow businesses to interact with financial systems. This research involves creating programmatic searches of financial databases, extracting statistical data, and dynamically querying financial information. I work on this project for around **10 hours a week**, contributing by writing code and developing features. This experience is helping me improve my skills in **software engineering and financial technology**. To learn more about financial APIs, visit this page (https://www.bill.com/blog/financial-apis).
+
+![This image takes you through how a financial API works](https://www.jpmorgan.com/content/dam/jpm/treasury-services/infographics/infographic-api.jpg)
+
+
+### Erie All Star Cricket Club
+
+The Erie All Star Cricket Club is a vibrant community of cricket enthusiasts dedicated to promoting and enjoying the sport. We meet every Wednesday for practice sessions, honing our skills and fostering teamwork. Our competitive spirit shines on weekends, with matches held every Saturday and Sunday. Whether you’re a seasoned player or new to the game, our club offers a welcoming environment for all skill levels. Join us to experience the thrill of cricket and be part of our dynamic team! This is a link to learn more about the team and the players(https://cricclubs.com/glct/viewTeam.do?teamId=103&clubId=13336).
+
+![This is a picture of a Cricket Match Being Played](https://thumbs.dreamstime.com/z/test-cricket-match-international-england-india-edgbaston-birmingham-england-uk-64683030.jpg?ct=jpeg)
+
+
+
+
+
