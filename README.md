@@ -46,8 +46,11 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 # Class GitHub Table 
 
-| Name              | Class Section     | GitHub ID            | website for a GitHub repo                  |  
-|:------------------|:------------------|:---------------------|:-------------------------------------------|  
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
+|:------------------|:------------------|:---------------------|:-------------------------------------|  
+| Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
+| Alex Fenk         | Section 001       | afenk5639            | https://github.com/afenk5639/AF      |
+| Jesse Zhang       | Section 001       | SPARTAN827           | https://github.com/SPARTAN827/YSKM   |
 | Sawan Pandita     | Section 001       | sawan18              | https://github.com/sawan18/demoStat184     |
 | Adam Saternos     | Section 001       | ThriceLived          | https://github.com/ThriceLived/R-week-1.5 |
 | Jake Ziegler      | Section 001       | jakeziegler15        | https://github.com/jakeziegler15/Stat-184-Week-1-     |
@@ -60,6 +63,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Jackson Shi       | Section 001       | jxs7190              | https://github.com/jxs7190/week-1-in-STAT184 |
 | Boden Gushie      | Section 001       | gushie-boden         | https://github.com/gushie-boden/newr |
 | Tabitha Westlin     | Section 001       | TabithaWestlin            | (https://github.com/TabithaWestlin/PracticeRepo)     |
+| Dakota Nelson     | Section 001       | dwnelson08           | https://github.com/dwnelson08/Stat184|
 
 
 <br>
